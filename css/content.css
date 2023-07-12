@@ -1,0 +1,26 @@
+.cont{
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: rgb(243, 243, 243);
+    padding: 10px;
+}
+
+.cont img{
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+
+.cont figcaption{
+    margin-top: 5px;
+    text-align: center;
+}
+
+.cont p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    line-height: 30px;
+}
+span{
+    text-align: right;
+}

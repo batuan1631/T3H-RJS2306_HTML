@@ -1,0 +1,18 @@
+h1{
+    color: red;
+}
+p{
+    color: #091edb;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;/*400 normal - 700 bold*/
+    line-height: 1.5;
+    text-align: left;/*left right center justify*/
+    text-decoration: none;
+    width: 600px;
+}
+span{
+    text-decoration: line-through;
+    text-transform: none; /* uppercase lowercase capitalize */
+    background-color: #eef7c7;
+}

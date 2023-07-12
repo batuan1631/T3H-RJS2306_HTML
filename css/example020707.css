@@ -1,0 +1,70 @@
+.box-pricing{
+    font-size: 2.5em;
+}
+.box-pricing p{
+    margin: 0;
+}
+p{
+    text-align: center;
+}
+.box-child{
+    border: 1px solid #cfcfcf;
+    border-radius: 5px;
+    float: left;
+    margin: 10px;
+}
+.box-name{
+    font-size: 20px;
+    background-color: #d1d1d1;
+    margin: 0;
+    padding: 15px 0 15px 0;
+}
+.box-name p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.btn-sign{
+    border: 1px solid #1880f7;
+    width: 200px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.btn-sign p{
+    color: #1880f7;
+}
+.btn-started{
+    border: 1px solid #1880f7;
+    width: 200px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #1880f7 ;
+}
+.btn-started p{
+    color: white;
+}
+.btn-contact{
+    border: 1px solid #1880f7;
+    width: 200px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #1880f7 ;
+}
+.btn-contact p{
+    color: white;
+}
+.box-content{
+    display: block;
+    margin: auto;
+    width: 520px;
+}
+.box-paren{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+span{
+    font-size: 30px;
+}

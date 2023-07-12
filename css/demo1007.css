@@ -1,0 +1,67 @@
+/* CSS seccion 1  */
+/* mac dinh */
+.block{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+/* end mac dinh*/
+.block-top h1{
+    font-size: 40px;
+    color: #222222;
+    text-align: center;
+}
+.block-top p{
+    font-size: 20px;
+    color: #222222;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+}
+.btn{
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.btn a{
+    color: #ffffff;
+    font-size: 15px;
+    padding: 6px 12px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.btn .btn-blue{
+    background-color: blue;
+}
+
+.btn .btn-gray{
+    background-color: gray;
+}
+/* CSS seccion 2 */
+.block-bottom{
+    background-color: #dbdbdb;
+}
+.grid-container{
+    float: left;
+    width: 100%;
+    display: flex;
+    
+}
+.card{
+    margin: 15px;
+    border: 1px solid;
+    display: block;
+    border-radius: 5px;
+}
+.card .card-body{
+    padding: 15px;
+}
+img{
+    max-width: 100%;
+}

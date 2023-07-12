@@ -1,0 +1,16 @@
+div{
+    width: calc(33% - 42px);
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+
+img{
+    max-width: 100%;
+}
+.dacbiet{
+    background-color: #e6e94f;
+    border: 1px solid #000000;
+}

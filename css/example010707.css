@@ -1,0 +1,19 @@
+h2{
+    background-color: #b4b4b4;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span{
+    text-transform: uppercase;
+}
+
+p{
+    line-height: 0.5;
+}

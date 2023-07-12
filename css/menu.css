@@ -1,0 +1,25 @@
+.nav ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: rgb(243, 243, 243);
+    margin: 0;
+    padding: 0;
+}
+
+.nav li{
+    float: left;
+}
+
+.nav li a{
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px 10px;
+    border-bottom : 3px solid rgb(243, 243, 243);
+}
+
+li a:hover{
+    border-color: blue;
+}
