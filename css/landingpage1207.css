@@ -1,0 +1,174 @@
+.block{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+/* section menu CSS */
+.block-menu .menu{
+    width: 100%;
+    display: flex;
+}
+.block-menu .menu-left{
+    width: 20%;
+    float: left;
+}
+.block-menu .menu-right{
+    float: right;
+    width: 80%;
+}
+.logo {
+    float: left;
+    width: 20%;
+    margin-left: 50px;
+}
+.logo p{
+    margin: 0 200px 0 0;
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+}
+.block-menu ul li{
+    list-style-type: none;
+    float: left;
+    margin: 10px 10px 10px 15px;
+}
+.block-menu li a{
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+.btn{
+    max-width: 100%;
+    text-align: center;
+}
+.btn a{
+    border: 1px solid #252525;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+.btn .btn-sign{
+    background-color: #252525;
+    color: #ffffff;
+}
+.block-menu{
+    background-color: #fab829ff;
+}
+/* end section menu css */
+/* start section header css */
+.block-header .banner{
+    width: 100%;
+    display: flex;
+}
+.block-header{
+    background-color: #fab829ff;
+}
+.block-footer{
+    background-color: #11a862ff;
+}
+.block-header .banner-left{
+    float: left;
+    width: 30%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+}
+.block-header .banner-right{
+    float: right;
+    width: calc(70% - 50px);
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+.block-header p{
+    font-size: 80px;
+    height: 220px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+.block-header img{
+    margin: 80px 0px 80px 150px;
+    width: 500px;
+}
+/* end section header css */
+/* start section content css */
+.block-content .grid-container{
+    float: left;
+    width: 100%;
+    display: flex;
+}
+.block-content img{
+    display: flex;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+}
+.block-content .card{
+    margin: 80px 18px 80px 50px;
+    display: block;
+}
+.block-content p{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+.block-content h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+/* end section content css */
+/* start section footer css */
+.block-footer{
+    background-color: #3cc771;
+}
+.block-footer p{
+    text-align: center;
+    margin-bottom: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.footer-top{
+    max-width: 100%;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 40px;
+    margin-top: 100px;
+}
+.footer-content{
+    color: #ffffff;
+    width: 420px;
+    margin-bottom: 80px;
+    font-weight: 100;
+}
+.block-footer .grid-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block-content p{
+    width: 300px;
+}
+.footer-bottom{
+    margin: 80px auto 20px auto;
+}
+.footer-bottom p{
+    float: left;
+    margin: 5px 15px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+.block-footer .btn-weight{
+    background-color: #ffffff;
+    color: #3cc771;
+    padding: 5px 5px;
+    border-radius: 5px;
+}

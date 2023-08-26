@@ -1,0 +1,58 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    padding: 30px 0;
+}
+.social li, .top-menu li{
+    float: left;
+    list-style-type: none;
+}
+.social li a{
+    color: #000000;
+    margin-right: 20px;
+    line-height: 100px;
+}
+.top-menu ul{
+    float: right;
+}
+.top-menu li a{
+    color: #000000;
+    margin-right: 20px;
+    line-height: 100px;
+}
+.menu-1 li, .menu-3 li{
+    float: left;
+    list-style-type: none;
+}
+.menu-1 ul{
+    float: right;
+}
+.menu-1 a{
+    color: #000000;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 17px;
+    font-weight: 600;
+}
+.menu-3 ul{
+    float: left;
+}
+.menu-3 a{
+    color: #000000;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 17px;
+    font-weight: 600;
+}
+.menu .menu-2{
+    margin-top: -10px;
+}
+.menu-2 span{
+    font-size: 30px;
+    font-weight: 800;
+    color: #000000;
+}
+.menu-2 span span{
+    color: #ffb84e;
+}

@@ -1,0 +1,7 @@
+.box{
+    margin: 150px auto;
+    width: 200px;
+    height: 200px;
+    display: block;
+    background-color: #274eff;
+}

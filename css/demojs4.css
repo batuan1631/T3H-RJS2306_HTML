@@ -1,0 +1,10 @@
+#clock p{
+    background-color: black;
+    width: 200px;
+    text-align: center;
+    color: white;
+}
+#clock{
+margin-top: 200px;
+margin-bottom: 200px;
+}
